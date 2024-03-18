@@ -5,4 +5,7 @@ date: 2024-03-18
 categories: Welcome post
 ---
 
-Hey there! Welcome to my blog. 
+Hey there! Welcome to my blog. I don't like summaries, yet I summarise this website here in few words: I love to read and write(more). In a way, Mathematics made me a patient reader and someone who craves to make things around as simple as possible. The reason I started loving Mathematics was due to an elegantly written NCERT Mathematics textbook in class 6th. Very soon I realised the power of simplicity and less words which was (and is) missing from most books prescribed in Educational Institutions. 
+
+This blog is an attempt to re-create that simple yet wonderful space of thoughts. Even if it lets just one person say "Hey! How come life has so many dots connected in so beautiful and simple ways and I never noticed it?", I guess my blog's purpose will be fulfilled.
+

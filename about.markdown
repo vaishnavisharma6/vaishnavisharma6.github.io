@@ -24,3 +24,5 @@ Hope you enjoy reading the posts!
 My previous blog on Wordpress: [Vishualise](https://blogwithvishu.wordpress.com/)
 
 Thanks for visiting!
+
+<!-- ![Calvin](/Users/vaishnavisharma/vaishnavisharma6.github.io/calvin_blog.png) -->
