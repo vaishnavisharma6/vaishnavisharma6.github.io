@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
@@ -15,4 +15,12 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[jekyll-organization]: https://github.com/jekyll -->
+
+Hello! I'm Vaishnavi. I love to write -- about everything. It allows me to see things with transparency. Here, I write about things which interest me -- Mathematics, History, Nature, Computing, Music, and much more!
+
+Hope you enjoy reading the posts!
+
+My previous blog on Wordpress: [Vishualise](https://blogwithvishu.wordpress.com/)
+
+Thanks for visiting!
