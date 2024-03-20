@@ -21,7 +21,6 @@ Hello! I'm Vaishnavi. I love to write -- about everything. It allows me to see t
 
 Hope you enjoy reading the posts!
 
-My previous blog on Wordpress: [Vishualise](https://blogwithvishu.wordpress.com/)
 
 Thanks for visiting!
 
