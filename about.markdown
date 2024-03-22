@@ -24,4 +24,4 @@ Hope you enjoy reading the posts!
 
 Thanks for visiting!
 
-<!-- ![Calvin](/Users/vaishnavisharma/vaishnavisharma6.github.io/calvin_blog.png) -->
+![Let's go](/assets/calvin_blog.png)

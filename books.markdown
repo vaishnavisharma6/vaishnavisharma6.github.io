@@ -1,5 +1,6 @@
 ---
 layout: page
 title: Goodreads
-permalink: /books/
+# permalink: /books/
 ---
+

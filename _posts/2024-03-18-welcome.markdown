@@ -9,3 +9,4 @@ Hey there! Welcome to my blog. I don't like summaries, yet I summarise this webs
 
 This blog is an attempt to re-create that simple yet wonderful space of thoughts. Even if it lets just one person say "Hey! How come life has so many dots connected in so beautiful and simple ways and I never noticed it?", I guess my blog's purpose will be fulfilled.
 
+![Explore](/assets/welcome_blog.jpeg)
