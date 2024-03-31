@@ -8,8 +8,8 @@ I'm currently working as a pre-doctoral fellow at Indian Institute of Science, B
 
 Previously, I worked as an undergraduate researcher in Prof. Praveen Chandrashekar's group on developing a deep learning based shock detection scheme for hyperbolic conservation laws.
 
-This page is a collection of some ideas which I find interesting in my work. Sometimes I can relate them to ideas in so called different fields and writing them usually makes me feel less-overwhelmed about them.
+This page is a collection of some ideas which I find interesting in my work. Sometimes I can relate them with ideas in the so called different fields and writing about this relativity usually makes me feel less-overwhelmed.
 
-Music and crayon-sketching are few things which I enjoy in my free time.
+Playing musical keyboard and crayon-sketching are few things which I enjoy in my free time.
 
 Feel free to reach out to discuss any ideas in related fields through my mail (mentioned at the bottom).
