@@ -4,9 +4,9 @@ title: Eureka!
 permalink: /research/
 ---
 
-I'm currently working as a pre-doctoral fellow at Indian Institute of Science, Bangalore on using data-driven methods to model linear dynamical systems like networked control systems. My research interests include theoretical machine learning (specifically unsupervised learning) and improvement of machine learning algorithms using tools from statistics, dynamical systems, control theory, etc.
+I'm currently working as a pre-doctoral fellow at Indian Institute of Science, Bangalore on using data-driven methods to model linear dynamical systems like networked control systems. My research interests include but not limited to theoretical machine learning (specifically unsupervised learning), improvement of machine learning algorithms using tools from statistics, dynamical systems, control theory, etc, Multi-agent systems, meta learning, etc.
 
-Previously, I worked as an undergraduate researcher in Prof. Praveen Chandrashekar's group on developing a deep learning based shock detection scheme for hyperbolic conservation laws.
+Previously, I worked as an undergraduate researcher in ![https://cpraveen.github.io/](Prof. Praveen Chandrashekar's) group on developing a deep learning based shock detection scheme for hyperbolic conservation laws.
 
 This page is a collection of some ideas which I find interesting in my work. Sometimes I can relate them with ideas in the so called different fields and writing about this relativity usually makes me feel less-overwhelmed.
 
