@@ -10,6 +10,6 @@ Previously, I worked as an undergraduate researcher in <a href="https://cpraveen
 
 This page is a collection of some ideas which I find interesting in my work. Sometimes I can relate them with ideas in the so called different fields and writing about this relativity usually makes me feel less-overwhelmed.
 
-Playing musical keyboard and crayon-sketching are few things which I enjoy in my free time.
+<a href = "https://www.youtube.com/@vaishnavisharma1853">Playing musical keyboard</a> and crayon-sketching are few things which I enjoy in my free time.
 
 Feel free to reach out to discuss any ideas in related fields through my mail (mentioned at the bottom).
