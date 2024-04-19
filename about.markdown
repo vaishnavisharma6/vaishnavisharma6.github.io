@@ -28,6 +28,7 @@ Thanks for visiting!
 
 ***A random Calvin and hobbes musing***
 
-![](/assets/calvin_first.png)\\
+![](/assets/calvin_first.png)
+
 
 Read about it <a href = "https://screenrant.com/calvin-and-hobbes-bill-watterson-meeting-explained-comic-strip/"> here</a> 
