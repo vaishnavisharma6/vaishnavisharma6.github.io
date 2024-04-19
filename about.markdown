@@ -17,11 +17,11 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll -->
 
-Hello! I'm Vaishnavi. I love to write -- about everything. It allows me to see things with transparency. Here, I write about things which interest me -- Mathematics, History, Nature, Computing, Music, and much more!
+Hello! I'm Vaishnavi. I love to write -- about many random things: My surroundings, things I learn everyday, my thoughts and their origin. My current work involves Maths and computing accompanied by foggy thoughts so I write about them too!
 
-Hope you enjoy reading the posts!
-
+Hope you enjoy reading most of the things here!
 
 Thanks for visiting!
 
-![Let's go](/assets/calvin_blog.png)
+
+![](/assets/calvin_blog.png)
