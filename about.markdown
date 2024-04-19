@@ -21,7 +21,12 @@ Hello! I'm Vaishnavi. I love to write -- about many random things: My surroundin
 
 Hope you enjoy reading most of the things here!
 
-Thanks for visiting!
+Thanks for visiting! 
 
 
-![](/assets/calvin_blog.png)
+<br/>
+
+***A random Calvin and hobbes musing***
+![](/assets/calvin_first.png)\\
+
+Read about it <a href = "https://screenrant.com/calvin-and-hobbes-bill-watterson-meeting-explained-comic-strip/"> here</a> 
