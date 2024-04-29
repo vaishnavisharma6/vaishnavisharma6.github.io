@@ -5,8 +5,12 @@ date: 2024-03-18
 categories: Welcome post
 ---
 
-Hey there! Welcome to my blog. I don't like summaries, yet I summarise this website here in few words: I love to read and write(more). In a way, Mathematics made me a patient reader and someone who craves to make things around as simple as possible. I started loving Mathematics due to an elegantly written NCERT Mathematics textbook in class 6th. Very soon I realised the power of simplicity and less words which was (and is) missing from most books prescribed in Educational Institutions. 
+Hey there! Welcome to my blog. I don't like summaries yet I summarize this website here in few words: I love to write (and read of course). Writing makes me see and feel the light bend around the words in such a way that usually other forms of communication can't.
 
-This blog is an attempt to re-create that simple yet wonderful space of thoughts. Even if it lets just one person say "Hey! How come life has so many dots connected in so beautiful and simple ways and I never noticed it?", I guess my blog's purpose will be fulfilled.
+This blog is just an attempt to create a simple yet wonderful spectrum of light resulting due to its bending around each word. Even if this space lets just one person say "Hey! How come life has so many dots connected in so beautiful and simple ways and I never noticed it?", I guess its purpose will be fulfilled. 
+
+**Something important**: I don't believe in the goal of achieving simplicity by bringing unncessary divisions in any aspect so feel free to have no bias regarding anything when reading a post. You're free here!
+
+Happy reading!
 
 ![Explore](/assets/welcome_blog.jpeg)
