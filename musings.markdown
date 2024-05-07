@@ -22,8 +22,3 @@ While doing a last minute revision of anything, I have realised that creating la
 
 I feel that the philosophy of 'Hard thing and the right thing are usually the same' is not always true. It often makes people believe that until and unless they are working too hard, they can't get on the right path or get what they want. I believed in this since beginning and often saw good results but this philosophy should be limited upto a certain point in life. The goal should be to get comfortable with hard things and make them easy eventually. After a point of time, if someone is able to achieve things easily, then that should be accounted to the years spent in developing a habit of making hard things easy and not on 'I don't deserve this because I didn't work too hard for this.' There is always an inner voice which knows what one deserves. As long as it dominates the outside worthless voices, there is no *hard* or *easy* or *right* or *wrong*. 
 
-<br/>
-
-**07-05-2024: Fear**
-
-I have realised now that my (I feel everyone's) worst enemy is fear of doing something wrong. It makes one numb and too cautious, resulting in an unstable system after a point of time. It's important to figure out the point when fear starts overpowering other emotions or thought processes. Otherwsie it just grows indefinitely leading to an immense chaos.
