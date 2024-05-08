@@ -22,3 +22,10 @@ While doing a last minute revision of anything, I have realised that creating la
 
 I feel that the philosophy of 'Hard thing and the right thing are usually the same' is not always true. It often makes people believe that until and unless they are working too hard, they can't get on the right path or get what they want. I believed in this since beginning and often saw good results but this philosophy should be limited upto a certain point in life. The goal should be to get comfortable with hard things and make them easy eventually. After a point of time, if someone is able to achieve things easily, then that should be accounted to the years spent in developing a habit of making hard things easy and not on 'I don't deserve this because I didn't work too hard for this.' There is always an inner voice which knows what one deserves. As long as it dominates the outside worthless voices, there is no *hard* or *easy* or *right* or *wrong*. 
 
+<br/>
+
+**08-05-2024: Interconnection?**
+
+I often find many people claiming that they sometimes feel overwhelmed when they see some connection of mathematical concepts in nature. It is indeed wonderful but sometimes we all forget that Maths is our own creation. Mathematical thinking is just a formal manner of articulating our daily thoughts so that we don't just wander here and there and get to point eventually with a taste of both robustness and accuracy. So this nature and maths is not some sort of interconnection rather a consequence of our own thoughts and how we really want few things to matter more than others. I sometimes even doubt if all the mathematics is just some sort of overfitting of our thoughts in order to make universe show us those things which we think matter and hide everything else which we don't want to observe. More on this soon!
+
+
