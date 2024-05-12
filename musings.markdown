@@ -40,4 +40,8 @@ This one made me smile genuinely for no reason. I don't know what happiness mean
 <span style="color:black; font-size: 1.25em; align:left"></span>
 ![UG](/assets/calvin_dancing.webp){:width="70%"} 
 
+<br/>
 
+**12-05-2024: Critical point**
+
+There is something which I have recently discovered that it makes everything easy in the long run no matter what kind of situation I am in. There are always days which make almost everyone question themselves: their worth, their path, their past, future, and so many things but there is this statement which helps me in keep going and not think too much about something: 'Whatever is happening right now, is taking me closer to whatever I'm meant to be.' It sounds simple, but when I analyse every situation, every incident, it makes me feel calm and remove all kinds of *what ifs*. There are then no *right* or *wrong* decisions, there are just decisions which I can make right or wrong.
