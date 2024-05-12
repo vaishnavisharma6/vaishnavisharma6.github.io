@@ -28,20 +28,3 @@ I feel that the philosophy of 'Hard thing and the right thing are usually the sa
 
 I often find many people claiming that they sometimes feel overwhelmed when they see some connection of mathematical concepts in nature. It is indeed wonderful but sometimes we all forget that Maths is our own creation. Mathematical thinking is just a formal manner of articulating our daily thoughts so that we don't just wander here and there and get to point eventually with a taste of both robustness and accuracy. So this nature and maths is not some sort of interconnection rather a consequence of our own thoughts and how we really want few things to matter more than others. I sometimes even doubt if all the mathematics is just some sort of overfitting of our thoughts in order to make universe show us those things which we think matter and hide everything else which we don't want to observe and when the Maths proves something true that *we* want to be true, we say 'Hey! Maths works. It's a universal language!!' More on this soon.
 
-
-<br/>
-
-**11-05-2024: The sequence**
-
-I often wonder what factor determines the sequence of *someone to be* in our lives. Since last few months (or perhaps years), I have this longing of leaving everything and live like a careless child, someone who doesn't want anything specific in life, just something that can bring me back to myself, to my real self. Sometimes we stop even loving those things which we inherently love. It just fades away into some silence, some emptiness. And it's difficult to remove this emptiness. I don't remember anything complex which made me laugh or even smile genuinely but these days, just seeing the *Calvin and Hobbes* comic strip makes me smile because I just love how the artist Bill Waterson could portray everything through that one single sweet child: Innocence, cuteness, laziness, quirkiness, everything. 
-This one made me smile genuinely for no reason. I don't know what happiness means but I want to stop for a while.
-
-
-<span style="color:black; font-size: 1.25em; align:left"></span>
-![UG](/assets/calvin_dancing.webp){:width="70%"} 
-
-<br/>
-
-**12-05-2024: Critical point**
-
-There is something which I have recently discovered that it makes everything easy in the long run no matter what kind of situation I am in. There are always days which make almost everyone question themselves: their worth, their path, their past, future, and so many things but there is this statement which helps me in keep going and not think too much about something: 'Whatever is happening right now, is taking me closer to whatever I'm meant to be.' It sounds simple, but when I analyse every situation, every incident, it makes me feel calm and remove all kinds of *what ifs*. There are then no *right* or *wrong* decisions, there are just decisions which I can make right or wrong.
