@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Large margin classifiers | Vishualise</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Large margin classifiers" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="I remember it was 4 years ago when I heard the word ‘Overfitting’ and I knew then that I have hated overfitting since beginning even when I didn’t know that such a concept existed. I believe that overfitting is the root cause of everything unpleasant around us. I’m not talking in the context of just AI but in our everyday lives. You know what it does? It removes the essence of everything and gives a blurry and false picture of perfection. In school too, I didn’t like those people who used to solve thousands of math problems and score perfect. I could always score perfect by solving only those problems which showed the essence of a concept and used to wonder: Why do people have to make things so complex? Why do they have to somehow show that they are doing important things? Why do we have to overfit everything when we can build a model with reasonable amount of efforts? Doesn’t it remove the very essence of why human beings started exploring universe in the first place? I now feel that reasonable amount of efforts requires some form of honesty and integrity: something which most people don’t want to take out time for." />
+<meta property="og:description" content="I remember it was 4 years ago when I heard the word ‘Overfitting’ and I knew then that I have hated overfitting since beginning even when I didn’t know that such a concept existed. I believe that overfitting is the root cause of everything unpleasant around us. I’m not talking in the context of just AI but in our everyday lives. You know what it does? It removes the essence of everything and gives a blurry and false picture of perfection. In school too, I didn’t like those people who used to solve thousands of math problems and score perfect. I could always score perfect by solving only those problems which showed the essence of a concept and used to wonder: Why do people have to make things so complex? Why do they have to somehow show that they are doing important things? Why do we have to overfit everything when we can build a model with reasonable amount of efforts? Doesn’t it remove the very essence of why human beings started exploring universe in the first place? I now feel that reasonable amount of efforts requires some form of honesty and integrity: something which most people don’t want to take out time for." />
+<link rel="canonical" href="http://localhost:4000/dynamics/2024/05/14/third.html" />
+<meta property="og:url" content="http://localhost:4000/dynamics/2024/05/14/third.html" />
+<meta property="og:site_name" content="Vishualise" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-05-14T00:00:00+05:30" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Large margin classifiers" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-05-14T00:00:00+05:30","datePublished":"2024-05-14T00:00:00+05:30","description":"I remember it was 4 years ago when I heard the word ‘Overfitting’ and I knew then that I have hated overfitting since beginning even when I didn’t know that such a concept existed. I believe that overfitting is the root cause of everything unpleasant around us. I’m not talking in the context of just AI but in our everyday lives. You know what it does? It removes the essence of everything and gives a blurry and false picture of perfection. In school too, I didn’t like those people who used to solve thousands of math problems and score perfect. I could always score perfect by solving only those problems which showed the essence of a concept and used to wonder: Why do people have to make things so complex? Why do they have to somehow show that they are doing important things? Why do we have to overfit everything when we can build a model with reasonable amount of efforts? Doesn’t it remove the very essence of why human beings started exploring universe in the first place? I now feel that reasonable amount of efforts requires some form of honesty and integrity: something which most people don’t want to take out time for.","headline":"Large margin classifiers","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/dynamics/2024/05/14/third.html"},"url":"http://localhost:4000/dynamics/2024/05/14/third.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Vishualise" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Vishualise</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About me</a><a class="page-link" href="/art/">Art</a><a class="page-link" href="/books/">Goodreads</a><a class="page-link" href="/musings/">Short musings</a><a class="page-link" href="/research/">Eureka!</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Large margin classifiers</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2024-05-14T00:00:00+05:30" itemprop="datePublished">May 14, 2024
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>I remember it was 4 years ago when I heard the word ‘Overfitting’ and I knew then that I have hated overfitting since beginning even when I didn’t know that such a concept existed. I believe that overfitting is the root cause of everything unpleasant around us. I’m not talking in the context of just AI but in our everyday lives. You know what it does? It removes the essence of everything and gives a blurry and false picture of perfection. In school too, I didn’t like those people who used to solve thousands of math problems and score perfect. I could always score perfect by solving only those problems which showed the essence of a concept and used to wonder: Why do people have to make things so complex? Why do they have to somehow show that they are doing important things? Why do we have to overfit everything when we can build a model with reasonable amount of efforts? Doesn’t it remove the very essence of why human beings started exploring universe in the first place? I now feel that <em>reasonable amount of efforts</em> requires some form of honesty and integrity: something which most people don’t want to take out time for.</p>
+
+<p>But then I wonder that <em>Hate</em> is a very strong word. I should know how does overfitting arise in the first place. Overfitting of any kind. And it makes me realise that I too have been a victim of this monster many times. This leads me to an interesting realisation in turn.</p>
+
+<p>Fear. Fear is the root cause of all kinds of overfitting existing in this world. Fear makes our learning model believe that it won’t be able to survive outside <em>training dataset</em> if it doesn’t exactly <em>copies</em> what it is seeing. I remember once I couldn’t solve my whole Maths test because I found one question very interesting and instead of just solving what question asked, I started exploring all details of the question. I was fearless then, I hadn’t encountered any problem in any test earlier. But when I listened the bell rang, a different kind of fear arose in me: something which made me a bit cautious and introduced a form of little overfitting. From then, I always had a fear of not being able to finish exam on time and it made me restricted in some sense. Sometimes people experience this fear since beginning in different forms and a regular basis of fear leads to overfitted model. Fear is dangerous, it leads to overfiting and makes things worse.</p>
+
+<p>One can also see how it affects our cultural and social beliefs. Don’t people forget the very essence of concept of God when occupied by fear? Doesn’t it lead to overfitting? Doesn’t it lead to too much of unncessesity and in turn to being too far from the concept of God? How about other issues: Gender discrimination, Racism, Crime of any kind or maybe just encountering bitter people in our day to day lives. Everything is a result of overfitting which is based on fear of not missing out anything at all. Fear makes one impatient and this in turn again leads to overfitting.</p>
+
+<p>I have often observed that I do worse in those tests/interviews in which I study everything and do well in those in which I don’t study much (sometimes study nothing). Overfitting doesn’t leave the chance to account for uncertainty or to come up with anything interesting and new. It removes robustness from brain, leading to a belief that one needs to know more and not think more in order to work better. These are just my own realisations and I’m sure everyone has different opinions on these things.</p>
+
+<p>I’m now trying to figure out how not to introduce overfitting in my post on Linear Algebra. I hope it will be the next post.</p>
+
+<p><br /></p>
+
+<p><strong><em>Some randomness to remove overfitting from your day.</em></strong></p>
+
+<p><img src="/assets/Calvin_dancing.webp" alt="third" /></p>
+
+
+  </div><a class="u-url" href="/dynamics/2024/05/14/third.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Vishualise</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Vishualise</li><li><a class="u-email" href="mailto:flyingbird6701@gmail.com">flyingbird6701@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/vaishnavisharma6"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">vaishnavisharma6</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Mathematics. Nature. Computing.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
