@@ -21,7 +21,7 @@ I'm now trying to figure out how not to introduce overfitting in my post on Line
 
 ***Some randomness to remove overfitting from your day.***
 
-![third](/assets/Calvin_dancing.webp)
+![](/assets/calvin_dancing.webp)
 
 
 
