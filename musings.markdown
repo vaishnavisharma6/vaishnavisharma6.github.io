@@ -35,3 +35,8 @@ I often find many people claiming that they sometimes feel overwhelmed when they
 
 Everything is fine until one doesn't know what better means.
 
+<br/>
+
+**20-05-2024: Real doings**
+
+*To hold our tongues when everyone is gossiping, to smile without hostility at people and institutions, to compensate for the shortage of love in the world with more love in small, private matters; to be more faithful in our work, to show greater patience, to forgo the cheap revenge obtainable from mockery and crticism: all these are things we can do.* - Hermann Hesse
