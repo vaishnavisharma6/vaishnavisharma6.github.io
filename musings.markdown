@@ -3,7 +3,7 @@ layout: page
 title: Short musings
 permalink: /musings/
 ---
-***Some short random insightful musings***.
+***In love with the mind***.
 
 **02-05-2024: Sweet tolerance of brain** 
 
