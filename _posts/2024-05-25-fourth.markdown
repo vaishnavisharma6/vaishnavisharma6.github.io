@@ -1,0 +1,7 @@
+---
+layout: post
+title: Not so linear story
+date: 2024-05-25
+categories: Maths
+---
+I believe that it happens with almost everyone that they question themselves: What

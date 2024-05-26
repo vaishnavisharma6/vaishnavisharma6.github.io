@@ -15,3 +15,5 @@ permalink: /books/
 **2.** Not a goodread but a goodwatch, Control Bootcamp by Steve Brunton is a wonderful lecture series on Control theory. No fancy visualizations, just discrete Maths and give you enough freedom to visualize things on your own in whatever way you like. Here is the link: <a href = "https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m"> Control Bootcamp </a>
 
 **3.** Check out this website: <a href = "https://www.barabasilab.com/"> Barabasi Lab </a>. Doesn't this website just lets anyone say 'Wow!'. This summer, I'm going to focus on web development so that I can build websites that can let people say 'Just wow!'. As a side note, this lab's work is pretty amazing. 
+
+**4.** Nice interview with Geoffrey Hinton on intuitive thinking and what AI really is: <a href = "https://www.youtube.com/watch?v=n4IQOBka8bc"> Interview</a>.
