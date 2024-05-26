@@ -41,11 +41,6 @@ Everything is fine until one doesn't know what better means.
 
 *To hold our tongues when everyone is gossiping, to smile without hostility at people and institutions, to compensate for the shortage of love in the world with more love in small, private matters; to be more faithful in our work, to show greater patience, to forgo the cheap revenge obtainable from mockery and crticism: all these are things we can do.* - Hermann Hesse
 
-<br/>
-
-**23-05-2024: First being first**
-
-I now realise that sometimes first impression can tell us what really the truth is. First impression isn't always cliche. It indeed can be the last impression in some cases. So next time when someone seems rude in first meeting or doesn't take anyone seriously or maybe ignores a person because of some generalised thinking, I think one should take it as a sign of ignoring such people in future in order to have a peaceful mind. Some people don't deserve all that 'There must be something good within him/her' time investement from us. It is what it is and it has saved me from lot of troublesome people and things.
 
 <br/>
 
