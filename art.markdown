@@ -10,3 +10,5 @@ permalink: /art/
 <span style="color:black; font-size: 1.25em; align:left"> </span>
 ![Bangalore](/assets/coconut.jpeg){:width="90%"}
 
+<span style="color:black; font-size: 1.25em; align: left"> </span>
+![sky](/assets/sky.jpeg){:width="90%"}
