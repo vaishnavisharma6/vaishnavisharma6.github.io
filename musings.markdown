@@ -47,3 +47,9 @@ Everything is fine until one doesn't know what better means.
 **24-05-2024: The perfection myth**
 
 Most of the times perfection in something comes from giving a specific amount of space to uncertainty in our brain. A space to intuition and not just to being accurate and being a 'know it all'. This space often gives us freedom to imagine things in infinite number of ways and sometimes we find that most of the things when advanced further are just transformed versions of the primitive ones. Uncertainty gives fun in learning anything.
+
+<br/>
+
+**01-06-2024: Women holding things**
+
+*What do women hold? The home and the family. And the children and the food. The friendships. The work. The work of the world. And the work of being human. The memories. And the troubles. And the sorrows and the triumphs. And the love.* - Maira Kalman
