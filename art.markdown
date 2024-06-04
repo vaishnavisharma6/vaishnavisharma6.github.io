@@ -14,5 +14,5 @@ permalink: /art/
 ![sky](/assets/sky.jpeg){:width="90%"}
 
 <span style="color:black; font-size: 1.25em; align: left"> </span>
-![sky](/assets/clouds.jpeg){:width="90%"}
+![sky](/assets/clouds.jpeg){:width="90%", :length="90%"}
 
