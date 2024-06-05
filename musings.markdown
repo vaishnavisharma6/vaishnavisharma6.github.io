@@ -58,4 +58,4 @@ Most of the times perfection in something comes from giving a specific amount of
 
 **04-06-2024: Let your system 2 work**
 
-I hate it when people judge others on the basis of some stereotypes of a place someone belongs to. The effect with sensible people doesn't last long though but it shows how some people don't really employ the system 2 of their brain. I have only one advise for such people: Let your brain come out of system 1 which is full of just effortless guesses. It doesn't do good to anyone.
+I hate it when people judge others on the basis of some stereotypes of a place someone belongs to. The effect with sensible people doesn't last long though but it shows how some people don't really employ the system 2 of their brain. I have only one advise for such people: Let your brain come out of system 1 which is full of just effortless guesses. It doesn't do good to anyone. 
