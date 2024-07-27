@@ -59,3 +59,8 @@ Most of the times perfection in something comes from giving a specific amount of
 **04-06-2024: Let your system 2 work**
 
 I hate it when people judge others on the basis of some stereotypes of a place someone belongs to. The effect with sensible people doesn't last long though but it shows how some people don't really employ the system 2 of their brain. I have only one advise for such people: Let your brain come out of system 1 which is full of just effortless guesses. It doesn't do good to anyone. 
+
+
+**27-07-2024: Changes**
+
+There are so many changes in everyone's life which make people question, doubt, feel different, and what not. Changes usually are not welcomed easily but over time I have realised that there is always something constant within us which helps us in dealing with these changes. I don't know what it exactly is but we seek this constant within ourselves when we are going through a transitive phase. I wonder if this constant is something that not only governs our life but just everything in this universe! More on this soon.
