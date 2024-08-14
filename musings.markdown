@@ -64,3 +64,9 @@ I hate it when people judge others on the basis of some stereotypes of a place s
 **27-07-2024: Changes**
 
 There are so many changes in everyone's life which make people question, doubt, feel different, and what not. Changes usually are not welcomed easily but over time I have realised that there is always something constant within us which helps us in dealing with these changes. I don't know what it exactly is but we seek this constant within ourselves when we are going through a transitive phase. I wonder if this constant is something that not only governs our life but just everything in this universe! More on this soon.
+
+<br/>
+
+**14-08-2024: Unique**
+
+I often find it irritating when something or someone is called as 'unique'. Over the years I have realised that there are only two traits: Right or wrong. When something isn't right, we know it well and we can sometimes try to ignore the fact but we know it. This ignorance when accumulates, gives us a kind of illusion into something being termed as ordinary or unique. I find these things troubling because they affect our surroundings in a way that things get more entangled for people to make a sense of. There is no such thing as uniqueness. There are just different levels of righness or wrongness.
