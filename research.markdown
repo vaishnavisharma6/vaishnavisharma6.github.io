@@ -4,7 +4,7 @@ title: Eureka!
 permalink: /research/
 ---
 
-I'm currently an MTech(research) student in Cyber-physical systems at <a href = "https://eecs.iisc.ac.in/">  EECS division</a>, <a href = "https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>. My research interests include but not limited to theoretical machine learning (specifically unsupervised learning), improvement of machine learning algorithms using tools from statistics, dynamical systems, control theory, optimization theory, etc. I have recently developed an interest in Multi-agent systems modelling and aspire to work on it in future.
+I'm currently an MTech(research) student in Cyber-physical systems at <a href = "https://eecs.iisc.ac.in/">  EECS division</a>, <a href = "https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>. I broadly work in Control theory, specifically using Machine learning theory, statistical learning theory, Stochastic models, Agent based modelling, etc to address various problems related to robustness and stability in different control systems. 
 
 Prior to this, I graduated from <a href = "https://nith.ac.in/">National Institute of Technology, Hamirpur</a> in May 2023, majoring in Mechanical Engineering. For my bachelor's thesis, I worked on developing a deep learning based approach to analyse the performance of solar desalination systems (independent of their shape and location of operation, making it easier for industries to optimize their desalination systems' setups in terms of financial constraints and available area).
 
