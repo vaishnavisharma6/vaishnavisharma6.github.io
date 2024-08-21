@@ -17,3 +17,5 @@ permalink: /books/
 **3.** Check out this website: <a href = "https://www.barabasilab.com/"> Barabasi Lab </a>. Doesn't this website just lets anyone say 'Wow!'. This summer, I'm going to focus on web development so that I can build websites that can let people say 'Just wow!'. As a side note, this lab's work is pretty amazing. 
 
 **4.** Nice interview with Geoffrey Hinton on intuitive thinking and what AI really is: <a href = "https://www.youtube.com/watch?v=n4IQOBka8bc"> Interview</a>.
+
+**5.** Good set of lectures to cover overview of Optimization: <a href = "https://www.youtube.com/playlist?list=PLOzRYVm0a65dcrQ9lNthjWtnqp1hYcusH">Lectures</a>.
