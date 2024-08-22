@@ -17,7 +17,7 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll -->
 
-Hello! I'm Vaishnavi. I love to write -- about many random things: My surroundings, things I learn everyday, my thoughts and their origin. My current work involves Maths and computing accompanied by both foggy and sunny thoughts so I write about them too! (I may not be a computing wizard yet but I have the persistence of a never terminating loop).
+Hello! I'm Vaishnavi. I love to write -- about many random things: My surroundings, things I learn everyday, my thoughts and their origin. My current work involves Maths and computing accompanied by both foggy and sunny thoughts so I write about them too!
 
 Hope you enjoy reading most of the things here!
 
