@@ -10,6 +10,6 @@ Prior to this, I graduated from <a href = "https://nith.ac.in/">National Institu
 
 Playing musical keyboard and crayon-sketching are few things which I enjoy in my free time.
 
-Feel free to reach out to discuss any ideas (only if you're from Engineering background) in related fields through my mail (mentioned at the bottom).
+Feel free to reach out to discuss any ideas in related fields through my mail (mentioned at the bottom).
 
 I may sometimes update this page with random ideas in related fields too.
