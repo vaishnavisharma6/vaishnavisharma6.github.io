@@ -4,7 +4,7 @@ title: Goodreads
 permalink: /books/
 ---
 
-***List and summary of some interesting research papers and books worth reading.***
+***List of some good finds.***
 
 **1.** A must read Mathematics book for all engineers/engineering students. It has everything! 
 
@@ -15,3 +15,5 @@ permalink: /books/
 **3.** A Nice interview with Geoffrey Hinton on intuitive thinking and what AI really is: <a href = "https://www.youtube.com/watch?v=n4IQOBka8bc"> Interview</a>.
 
 **4.** A Good set of lectures to cover overview of Optimization: <a href = "https://www.youtube.com/playlist?list=PLOzRYVm0a65dcrQ9lNthjWtnqp1hYcusH">Lectures</a>.
+
+**5.** A very nice book to start with Information theory: <a href = "https://www.inference.org.uk/mackay/itila/">Book</a>.
