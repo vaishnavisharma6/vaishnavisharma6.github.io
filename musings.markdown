@@ -70,3 +70,9 @@ There are so many changes in everyone's life which make people question, doubt, 
 **14-08-2024: Unique**
 
 I often find it irritating when something or someone is called as 'unique'. Over the years I have realised that there are only two traits: Right or wrong. When something isn't right, we know it well and we can sometimes try to ignore the fact but we know it. This ignorance when accumulates, gives us a kind of illusion into something being termed as ordinary or unique. I find these things troubling because they affect our surroundings in a way that things get more entangled for people to make a sense of. There is no such thing as uniqueness. There are just different levels of righness or wrongness.
+
+<br/>
+
+**10-09-2024: No 'regret-free'**
+
+I read about an interesting result on the lower bound on regret for multi-armed bandit problems and was in awe (initially) of how we can never have zero regret no matter how well we start or how bad we start. Every action leads to some regret: It can be zero at a point of time but it is never zero as a whole. In real life too: Our actions may seem independent of each other but they are always connected in some ways. I should write whole post on Maths of this thing soon!
