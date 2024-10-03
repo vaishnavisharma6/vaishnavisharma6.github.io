@@ -17,3 +17,5 @@ permalink: /books/
 **4.** A Good set of lectures to cover overview of Optimization: <a href = "https://www.youtube.com/playlist?list=PLOzRYVm0a65dcrQ9lNthjWtnqp1hYcusH">Lectures</a>.
 
 **5.** A very nice book to start with Information theory: <a href = "https://www.inference.org.uk/mackay/itila/">Book</a>.
+
+**6.** Optimization perspectives on learning to control: <a href = "https://people.eecs.berkeley.edu/~brecht/l2c-icml2018/">Tutorial</a>.
