@@ -1,0 +1,11 @@
+---
+layout: post
+title: Series
+date: 2024-10-24
+categories: general
+---
+
+I love to solve problems involving any sort of optimization. In fact I'm also taking a course on Computational methods for optimization this semester. But sometimes, the numerical analysis we do for different algorithms takes away the fun of each algorithm and how we started with each of them in the first place. There should be some balance! And there comes optimization again. I am beginning a series of articles dedicated to almost anything in optimization: It should be able to give the essence of this beautiful area without too much of 'if and and only if' or 'such thats'. 
+The posts will come on weekly basis or atmost once two weeks (depending on the efforts required by each post).
+
+Stay tuned!

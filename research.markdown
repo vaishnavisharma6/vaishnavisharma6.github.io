@@ -4,6 +4,7 @@ title: Eureka!
 permalink: /research/
 ---
 
+
 I'm currently an MTech(research) student in Cyber-physical systems at <a href = "https://eecs.iisc.ac.in/">  EECS division</a>, <a href = "https://iisc.ac.in/">Indian Institute of Science, Bangalore</a> and I currently work in Control, learning, and Optimization (involving both theory and applications).
 
 Prior to this, I graduated from <a href = "https://nith.ac.in/">National Institute of Technology, Hamirpur</a> in May 2023, majoring in Mechanical Engineering. 
