@@ -19,3 +19,5 @@ permalink: /books/
 **5.** A very nice book to start with Information theory: <a href = "https://www.inference.org.uk/mackay/itila/">Book</a>.
 
 **6.** Optimization perspectives on learning to control: <a href = "https://people.eecs.berkeley.edu/~brecht/l2c-icml2018/">Tutorial</a>.
+
+**7.** Brief overview on Control Fundamentals: <a href = "https://www.youtube.com/watch?v=OKNmHvffQxg&list=PLgKuh-lKre11De4uxkLE8a88n0InyJxa-&index=15"> Lecture</a>.
