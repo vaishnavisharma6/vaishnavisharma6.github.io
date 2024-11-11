@@ -76,3 +76,9 @@ I often find it irritating when something or someone is called as 'unique'. Over
 **10-09-2024: No 'regret-free'**
 
 I read about an interesting result on the lower bound on regret for multi-armed bandit problems and was in awe (initially) of how we can never have zero regret no matter how well we start or how bad we start. Every action leads to some regret: It can be zero at a point of time but it is never zero as a whole. In real life too: Our actions may seem independent of each other but they are always connected in some ways. I should write whole post on Maths of this thing soon!
+
+<br/>
+
+**11-11-2024: To let go**
+
+Often in the name of dedication, we are not taught how much attachment with anything is really necessary. Is it good to be attached with a problem? To our own efforts and what we created? Is it good to be attached to the results? Is it good to be attached to our identity so much that we forget the difference between dedication and obsession? It hurts to let go of things, feelings, emotions, people, everything around us which has some 'value' in our lives but I hope that in the long run posterior emerges out to be stable: irrespective of what prior was. Maybe it is for this posterior that one should not stop 'living' and dreaming and creating.
