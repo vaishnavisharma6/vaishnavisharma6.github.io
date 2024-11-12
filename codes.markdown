@@ -14,3 +14,4 @@ Collection of some small codes that I have written (and think are useful). I try
 
 4. CS-50 codes: <a href = "https://github.com/vaishnavisharma6/CS50-repository">Code</a> (These were developed for CS-50 MOOC during my 1st year of UG. May not be very useful but I found the exercises useful and interesting).
 
+5. Some other codes written in MATLAB for Machine learning can be found on same account.
