@@ -14,4 +14,10 @@ Collection of some small codes that I have written (and think are useful). I try
 
 4. CS-50 codes: <a href = "https://github.com/vaishnavisharma6/CS50-repository">Code</a> (These were developed for CS-50 MOOC during my 1st year of UG. May not be very useful but I found the exercises useful and interesting).
 
-5. Some other codes written in MATLAB for Machine learning can be found on same account.
+Some other codes written in MATLAB for Machine learning can be found on same account.
+
+5. <a href = "https://github.com/Arpit-Babbar/mlp_blending">MLP-blending</a>: Multi-layer perceptron based blending limiter for hyperbolic PDEs (currently private).
+
+6. <a href = "https://github.com/vaishnavisharma6/Control-theory">MECI-MLP</a>: MLP based framework for minimum energy control input problem for linear dynamical systems with unknown dynamics (currently private).
+
+7. <a href = "https://github.com/vaishnavisharma6/OPAL_project"> TS-optimal-control </a>: Thompson sampling (with continuous action space) based optimal control of uncertain dynamical systems (private).
