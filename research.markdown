@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
-I'm currently an MTech(research) student in Cyber-physical systems at <a href = "https://eecs.iisc.ac.in/">  EECS division</a>, <a href = "https://iisc.ac.in/">Indian Institute of Science, Bangalore</a> and I work in Control, learning, and Optimization theory in <a href = "https://cps.iisc.ac.in/faculty/vaibhav/">Prof. Vaibhav Katewa's</a>group.
+I'm currently an MTech(research) student in Cyber-physical systems at <a href = "https://eecs.iisc.ac.in/">  EECS division</a>, <a href = "https://iisc.ac.in/">Indian Institute of Science, Bangalore</a> and I work in Control, learning, and Optimization theory in <a href = "https://cps.iisc.ac.in/faculty/vaibhav/">Prof. Vaibhav Katewa's</a> group.
 
 Prior to this, I graduated from <a href = "https://nith.ac.in/">National Institute of Technology, Hamirpur</a> in May 2023, majoring in Mechanical Engineering. 
 
