@@ -19,7 +19,7 @@ Some other codes written in MATLAB for Machine learning can be found on same acc
 <br/>
 Few others:
 
-5. <a href = "https://github.com/Arpit-Babbar/mlp_blending">MLP-blending</a>: Multi-layer perceptron based blending limiter for hyperbolic PDEs (currently private).
+5. <a href = "https://github.com/Arpit-Babbar/mlp_blending">MLP-blending</a>: Multi-layer perceptron based blending limiter for hyperbolic PDEs (with <a href = "https://babbar.dev/">Arpit Babbar</a>) (currently private).
 
 6. <a href = "https://github.com/vaishnavisharma6/Control-theory">MECI-MLP</a>: MLP based framework for minimum energy control input problem for linear dynamical systems with unknown dynamics (currently private).
 
