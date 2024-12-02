@@ -18,3 +18,5 @@ My first semester of MTech at IISc got over on 29th November. I thought of writi
 I hope anyone who is looking for advise on managaing things in IISc finds this useful.
 
 Happy learning!
+
+PS: Yes, the first post on optimization and Bandit algorithms will come soon. Stay tuned!
