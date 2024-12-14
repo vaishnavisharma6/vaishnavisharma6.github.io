@@ -82,3 +82,11 @@ I read about an interesting result on the lower bound on regret for multi-armed 
 **11-11-2024: To let go**
 
 Often in the name of dedication, we are not taught how much attachment with anything is really necessary. Is it good to be attached with a problem? To our own efforts and what we created? Is it good to be attached to the results? Is it good to be attached to our identity so much that we forget the difference between dedication and obsession? It hurts to let go of things, feelings, emotions, people, everything around us which has some 'value' in our lives but I hope that in the long run posterior emerges out to be stable: irrespective of what prior was. Maybe it is for this posterior that one should not stop 'living' and dreaming and creating.
+
+<br/>
+
+**14-12-2024: Detachment**
+
+My brother pointed out something interesting today while we were on a call which has been revolving around in my mind since then: "It's a problem with sincere people. While trying to make things right, when they distance themselves from unnecessary people, they also end up distancing themselves from good people, maybe in the hope that only *they* themselves can make things right or maybe some form of responsibility they feel towards others to not let them get affected by their own confusions." 
+
+And I believe I don't need to explain it but I don't really know how do people figure out that balance?
