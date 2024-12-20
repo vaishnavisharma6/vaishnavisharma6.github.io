@@ -20,3 +20,7 @@ I hope anyone who is looking for advise on managaing things in IISc finds this u
 Happy learning!
 
 PS: Yes, the first post on optimization and Bandit algorithms will come soon. Stay tuned!
+
+**Update on 20-12-2024**
+
+I forgot to add the most important point that has always helped me (Idk how general this advice is): Don't copy anyone else's method of learning or doing things. Always figure out your own style, own pace, and own goals. Not everyone takes a course or works on some problem for one single goal. Everyone has different intentions. Figuring out what you want from anything and how is it helping in your research progress is something that will always help you. Don't stress yourself with too much courseload. Taking time to figure out what 'optimal' is always does wonders.
