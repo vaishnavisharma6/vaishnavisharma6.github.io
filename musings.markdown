@@ -90,3 +90,9 @@ Often in the name of dedication, we are not taught how much attachment with anyt
 My brother pointed out something interesting today while we were on a call which has been revolving around in my mind since then: "It's a problem with sincere people. While trying to make things right, when they distance themselves from unnecessary people, they also end up distancing themselves from good people, maybe in the hope that only *they* themselves can make things right or maybe some form of responsibility they feel towards others to not let them get affected by their own confusions." 
 
 And I believe I don't need to explain it but I don't really know how do people figure out that balance?
+
+<br/>
+
+**23-12-2024: When I despair**
+
+*"When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always."* - Mahatma Gandhi
