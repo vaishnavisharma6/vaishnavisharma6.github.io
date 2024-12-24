@@ -21,3 +21,5 @@ permalink: /books/
 **6.** Optimization perspectives on learning to control: <a href = "https://people.eecs.berkeley.edu/~brecht/l2c-icml2018/">Tutorial</a>.
 
 **7.** Brief overview on Control Fundamentals: <a href = "https://www.youtube.com/watch?v=OKNmHvffQxg&list=PLgKuh-lKre11De4uxkLE8a88n0InyJxa-&index=15"> Lecture</a>.
+
+**8.** I remember I read this poem in Science reporter magazine when I was in 9th standard and I suddenly thought of reading it again because it helped me very much then: <a href = "https://nopr.niscpr.res.in/bitstream/123456789/33758/1/SR%2053%282%29%2048-49.pdf">Ghost of Newton</a>.
