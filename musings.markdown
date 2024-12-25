@@ -96,3 +96,7 @@ And I believe I don't need to explain it but I don't really know how do people f
 **23-12-2024: When I despair**
 
 *"When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always."* - Mahatma Gandhi
+
+**25-12-2024: 'Winning'**
+
+Often winning is associated with making your opposition (a person, a thought or anything else in conflict with you)submit to you. But I now believe that no win is bigger than maintaining a state of mind that aligns with your own value and belief system. As long as you know it is really right and is not doing any harm to anyone, you should be fine with any opinion of others. It is a tough thing to do, but surely makes life meaningful.
