@@ -1,5 +1,6 @@
 ---
 layout: page
-title: 
+title: Fun in research
 permalink: /results/
 ---
+
