@@ -7,3 +7,4 @@ permalink: /pearls/
 2. <a href = "https://www.goodreads.com/quotes/1213937-do-not-love-half-lovers-do-not-entertain-half-friends">Do not love half lovers</a> by Kahlil Gibran.
 3. <a href = "https://www.goodreads.com/quotes/266525-the-genius-of-the-crowd-there-is-enough-treachery-hatred">The Genius of the Crowd</a> by Charles Bukowski.
 4. <a href = "https://poets.org/poem/so-you-want-be-writer">So you want to be a writer</a> by Charles Bukowski.
+5. <a href = "https://www.youtube.com/watch?v=nEX-9exMc1A">The morning after I killed myself</a> by Meggie Royer.
