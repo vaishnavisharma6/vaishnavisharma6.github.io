@@ -56,11 +56,6 @@ Most of the times perfection in something comes from giving a specific amount of
 
 <br/>
 
-**04-06-2024: Let your system 2 work**
-
-I hate it when people judge others on the basis of some stereotypes of a place someone belongs to. The effect with sensible people doesn't last long though but it shows how some people don't really employ the system 2 of their brain. I have only one advise for such people: Let your brain come out of system 1 which is full of just effortless guesses. It doesn't do good to anyone. 
-
-
 **27-07-2024: Changes**
 
 There are so many changes in everyone's life which make people question, doubt, feel different, and what not. Changes usually are not welcomed easily but over time I have realised that there is always something constant within us which helps us in dealing with these changes. I don't know what it exactly is but we seek this constant within ourselves when we are going through a transitive phase. I wonder if this constant is something that not only governs our life but just everything in this universe! More on this soon.
@@ -79,24 +74,7 @@ I read about an interesting result on the lower bound on regret for multi-armed 
 
 <br/>
 
-**11-11-2024: To let go**
-
-Often in the name of dedication, we are not taught how much attachment with anything is really necessary. Is it good to be attached with a problem? To our own efforts and what we created? Is it good to be attached to the results? Is it good to be attached to our identity so much that we forget the difference between dedication and obsession? It hurts to let go of things, feelings, emotions, people, everything around us which has some 'value' in our lives but I hope that in the long run posterior emerges out to be stable: irrespective of what prior was. Maybe it is for this posterior that one should not stop 'living' and dreaming and creating.
-
-<br/>
-
-**14-12-2024: Detachment**
-
-My brother pointed out something interesting today while we were on a call which has been revolving around in my mind since then: "It's a problem with sincere people. While trying to make things right, when they distance themselves from unnecessary people, they also end up distancing themselves from good people, maybe in the hope that only *they* themselves can make things right or maybe some form of responsibility they feel towards others to not let them get affected by their own confusions." 
-
-And I believe I don't need to explain it but I don't really know how do people figure out that balance?
-
-<br/>
-
 **23-12-2024: When I despair**
 
 *"When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always."* - Mahatma Gandhi
 
-**25-12-2024: 'Winning'**
-
-Often winning is associated with making your opposition (a person, a thought or anything else in conflict with you)submit to you. But I now believe that no win is bigger than maintaining a state of mind that aligns with your own value and belief system. As long as you know it is really right and is not doing any harm to anyone, you should be fine with any opinion of others. It is a tough thing to do, but surely makes life meaningful.
