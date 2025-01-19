@@ -78,3 +78,7 @@ I read about an interesting result on the lower bound on regret for multi-armed 
 
 *"When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always."* - Mahatma Gandhi
 
+<br/>
+
+**19-01-2025: Unbiased**
+*“You never have to change anything you got up in the middle of the night to write.”* - Saul Bellow
