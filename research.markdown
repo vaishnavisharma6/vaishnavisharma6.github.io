@@ -11,7 +11,7 @@ Prior to this, I graduated from <a href = "https://nith.ac.in/">National Institu
 
 In my 4th year, I also worked on developing deep-learning based numerical schemes for Hyperbolic PDEs in <a href = "https://cpraveen.github.io/">Prof. Praveen Chandrashekar's group </a>at <a href = "https://www.math.tifrbng.res.in/">TIFR-CAM.</a>
 
-I'm currently interested and working on problems at the intersection of control theory and online learning and I love to learn about how human brain works!
+I'm currently interested and working on problems at the intersection of control theory and online learning. Specifically, I'm interested in how learning theory and control theory can be bridged efficiently in order to make good decisions in controlling dynamical systems. I also love to learn about how human brain works and how to formulate good mathematical models for it!
 
 Feel free to reach out to discuss any ideas in related fields through my mail (mentioned at the bottom).
 
