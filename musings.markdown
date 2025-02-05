@@ -83,3 +83,5 @@ I read about an interesting result on the lower bound on regret for multi-armed 
 **19-01-2025: Unbiased**
 *“You never have to change anything you got up in the middle of the night to write.”* - Saul Bellow
 
+**05-02-2025: Freedom**
+*"I've found that there is always some beauty left-- in nature, sunshine, freedom, in yourself; these can all help you."* - Anne Frank
