@@ -1,0 +1,14 @@
+---
+layout: post
+title: MDP
+date: 2024-02-04
+categories: general
+---
+
+Infinite or finite horizon, cost or reward, cyclic or non-cyclic, reducible or irreducible, periodic or non-periodic, it doesn't matter as long as you are able to find a way to transition out of that temporary state, no matter with how small probability. 
+
+Reason? 
+
+There is a reason why a state is *temporary* or *permanent*. Anything not making you aware about whole Q function is an illusion. It's probably nothing less than an adverserial setting (initiated by agent or environment (they both mean same to me now)). 
+
+The only escape is to just dare, dare with even 0.0001% probability. That small percentage can make you understand an already existing beautiful MDP like it's meant to be.
