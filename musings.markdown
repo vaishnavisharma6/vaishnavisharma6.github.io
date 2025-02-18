@@ -85,3 +85,6 @@ I read about an interesting result on the lower bound on regret for multi-armed 
 
 **05-02-2025: Freedom**
 *"I've found that there is always some beauty left-- in nature, sunshine, freedom, in yourself; these can all help you."* - Anne Frank
+
+**18-02-2025: Courage**
+*"I've loved the stars too fondly to be fearful of the night."* - Sarah Williams
