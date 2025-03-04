@@ -19,3 +19,5 @@ Feel free to reach out to discuss any ideas in related fields through my mail (m
 I may sometime update this page with random but connecting ideas in related fields too.
 
 Bye!
+
+![](/assets/ch870324.jpg.jpeg)
