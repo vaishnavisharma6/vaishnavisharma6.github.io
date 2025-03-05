@@ -20,4 +20,4 @@ I may sometime update this page with random but connecting ideas in related fiel
 
 Bye!
 
-![](/assets/ch870324.jpg.jpeg)
+![](/assets/ch870324.jpg)
