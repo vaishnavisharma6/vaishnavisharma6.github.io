@@ -88,3 +88,6 @@ I read about an interesting result on the lower bound on regret for multi-armed 
 
 **18-02-2025: Courage**
 *"I've loved the stars too fondly to be fearful of the night."* - Sarah Williams
+
+**04-04-2025**
+*“It is not that I'm so smart. But I stay with the questions much longer.”* - Albert Einstein
