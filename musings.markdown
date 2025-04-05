@@ -91,3 +91,6 @@ I read about an interesting result on the lower bound on regret for multi-armed 
 
 **04-04-2025**
 *“It is not that I'm so smart. But I stay with the questions much longer.”* - Albert Einstein
+
+**05-04-2025**
+*“One must still have chaos in oneself to be able to give birth to a dancing star.”* - Friedrich Nietzshe
