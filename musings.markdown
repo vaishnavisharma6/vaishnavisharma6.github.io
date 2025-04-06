@@ -94,3 +94,6 @@ I read about an interesting result on the lower bound on regret for multi-armed 
 
 **05-04-2025**
 *“One must still have chaos in oneself to be able to give birth to a dancing star.”* - Friedrich Nietzshe
+
+**06-04-2025**
+*“The reason that so many people don’t really feel happy while they’re building up their success in the eyes of society is that they are living in competition.”* - Ichiro Kishimi
