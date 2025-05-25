@@ -30,8 +30,10 @@ google_analytics: G-PQS03CKD5M
 
 # Build settings
 theme: minima
+# plugins:
+#   - jekyll-feed
 plugins:
-  - jekyll-feed
+  - jekyll-scholar
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,3 +54,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
