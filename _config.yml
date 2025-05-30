@@ -38,6 +38,9 @@ plugins:
 collections:
    rl: 
      output: True
+
+   musings:
+     output: True  
      
 
 
