@@ -4,5 +4,15 @@
 @import "minima";
 
 body {
-  background-color: #a2a4a4; /* Change this to your desired color */
+  background-color: #a7b2b2; /* Change this to your desired color */
+}
+
+a {
+  color: #0d476e;          // Normal link color
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff4081;          // Hover color
+  text-decoration: underline;
 }
