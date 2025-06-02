@@ -2,30 +2,14 @@
 layout: default
 title: Blog
 ---
+
 <h2 style="margin-top: 2rem; font-size: 2rem;">Posts</h2>
 
-{% assign all_posts = site.posts %}
-{% assign pinned_posts = all_posts | where: "pin", true %}
-{% assign other_posts = all_posts | where_exp: "post", "post.pin != true" %}
-{% assign pinned_posts = pinned_posts | sort: 'date' | reverse %}
-{% assign other_posts = other_posts | sort: 'date' | reverse %}
+
 
 <ul style="list-style: none; padding: 0;">
-
-  <!-- Pinned Posts -->
-  {% for post in pinned_posts %}
-    <li style="margin-bottom: 1.2rem; border-bottom: 2px solid #007acc; padding-bottom: 0.6rem;">
-      <a href="{{ post.url }}" style="font-size: 1.1rem; font-weight: bold; color: #007acc; text-decoration: none;">
-        {{ post.title }}
-      </a>
-      <div style="font-size: 0.9rem; color: #666; margin-top: 0.2rem;">
-        {{ post.date | date: "%B %d, %Y" }}
-      </div>
-    </li>
-  {% endfor %}
-
-  <!-- Other Posts -->
-  {% for post in other_posts %}
+  {% assign sorted_posts = site.blog | sort: 'date' | reverse %}
+  {% for post in sorted_posts %}
     <li style="margin-bottom: 1.2rem; border-bottom: 1px solid #ccc; padding-bottom: 0.6rem;">
       <a href="{{ post.url }}" style="font-size: 1.1rem; font-weight: bold; color: #003366; text-decoration: none;">
         {{ post.title }}
@@ -35,7 +19,7 @@ title: Blog
       </div>
     </li>
   {% endfor %}
-
 </ul>
+
 
 <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
