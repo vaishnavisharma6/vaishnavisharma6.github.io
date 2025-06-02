@@ -41,6 +41,9 @@ collections:
 
    musings:
      output: True  
+
+   blog:
+     output: True  
      
 sass:
    style: compressed
