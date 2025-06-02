@@ -3,6 +3,7 @@ layout: post
 title: "Welcome to my blog!"
 date: 2024-03-18
 categories: Welcome post
+pin: true
 ---
 
 Hey there! Welcome to my blog. I don't like summaries yet I summarize this website here in few words: I love to write (and read of course). Writing makes me see and feel the light bend around the words in such a way that usually other forms of communication can't.
