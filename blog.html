@@ -11,7 +11,7 @@ title: Blog
   {% assign sorted_posts = site.blog | sort: 'date' | reverse %}
   {% for post in sorted_posts %}
     <li style="margin-bottom: 1.2rem; border-bottom: 1px solid #ccc; padding-bottom: 0.6rem;">
-      <a href="{{ post.url }}" style="font-size: 1.1rem; font-weight: bold; color: #003366; text-decoration: none;">
+      <a href="{{ post.url }}" style="font-size: 1.1rem; color: #003366; text-decoration: none;">
         {{ post.title }}
       </a>
       <div style="font-size: 0.9rem; color: #666; margin-top: 0.2rem;">
