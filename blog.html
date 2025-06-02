@@ -3,12 +3,18 @@ layout: default
 title: Blog
 ---
 
-<h2>Posts</h2>
-<ul>
+<h2 style="margin-top: 2rem; font-size: 2rem;">📚 Blog Posts</h2>
+
+<ul style="list-style: none; padding: 0;">
   {% assign sorted_posts = site.blog | sort: 'date' | reverse %}
   {% for post in sorted_posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+    <li style="margin-bottom: 1.2rem; border-bottom: 1px solid #ccc; padding-bottom: 0.6rem;">
+      <a href="{{ post.url }}" style="font-size: 1.1rem; font-weight: bold; color: #003366; text-decoration: none;">
+        {{ post.title }}
+      </a>
+      <div style="font-size: 0.9rem; color: #666; margin-top: 0.2rem;">
+        {{ post.date | date: "%B %d, %Y" }}
+      </div>
     </li>
   {% endfor %}
 </ul>
