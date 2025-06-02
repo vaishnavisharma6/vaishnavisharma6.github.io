@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: me
 permalink: /about/
 ---
 
@@ -22,7 +22,7 @@ Hello! I'm Vaishnavi. I love to write -- about many random things: My surroundin
 
 PS: In essence, I love the raw ideas that have no explanation for their origin. I want to write them all in order to have a pattern, that can describe them without any formal/rational process.
 
-Hope you enjoy reading most of the things here!
+Hope you enjoy reading most of the blog posts here!
 
 Thanks for visiting! 
 

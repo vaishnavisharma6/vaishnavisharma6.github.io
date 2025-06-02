@@ -18,6 +18,6 @@ I also love to learn about how human brain works and how to formulate good mathe
 
 Feel free to reach out to discuss any ideas in related fields through my mail (mentioned at the bottom).
 
-Feel free to explore other tabs!
+Read an informal version in 'Me' section. Feel free to explore other tabs too!
 
 ![](/assets/ch870324.jpg)
