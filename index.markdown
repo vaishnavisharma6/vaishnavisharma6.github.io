@@ -26,7 +26,7 @@ exclude_from_nav: true
 
 
 
-<div style="display: flex; align-items: flex-start; gap: 4rem; flex-wrap: wrap-reverse;">
+<!-- <div style="display: flex; align-items: flex-start; gap: 4rem; flex-wrap: wrap-reverse;">
 
   <div style="flex: 1; min-width: 300px;">
 
@@ -53,4 +53,23 @@ Read an informal version in the 'Z' section. Feel free to explore other tabs too
     <img src="/assets/cover.jpg" style="max-width: 100%; height: auto; border-radius: 10px; margin-top: 1rem;">
   </div>
 
+</div> -->
+
+
+<div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <p>I'm currently an MTech (research) student in Cyber-physical systems at <a href="https://eecs.iisc.ac.in/">EECS division</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a> and I work in Control, Learning, and Optimization theory in <a href="https://cps.iisc.ac.in/faculty/vaibhav/">Prof. Vaibhav Katewa's</a> group.</p>
+
+   <p>Prior to this, I graduated from <a href="https://nith.ac.in/">National Institute of Technology, Hamirpur</a> in May 2023, majoring in Mechanical Engineering.</p>
+
+   <p>In my 4th year, I also worked on developing deep-learning based numerical schemes for Hyperbolic PDEs in <a href="https://cpraveen.github.io/">Prof. Praveen Chandrashekar's group</a> at <a href="https://www.math.tifrbng.res.in/">TIFR-CAM</a>.</p>
+
+    I'm currently interested and working on problems at the intersection of control theory and online learning...
+
+    Read an informal version in the 'Z' section. Feel free to explore other tabs too!
+  </div>
+
+  <div style="flex: 0 0 250px;">
+    <img src="/assets/cover.jpg" alt="Abstract visualisation of a dynamical system" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
 </div>
