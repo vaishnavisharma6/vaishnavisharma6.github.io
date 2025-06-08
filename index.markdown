@@ -2,13 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-# layout: page
-# title: Hello!
-# permalink: /
-# exclude_from_nav: true
-# ---
+layout: page
+title: Hello!
+permalink: /
+exclude_from_nav: true
+---
 
-# I'm currently an MTech(research) student in Cyber-physical systems at <a href = "https://eecs.iisc.ac.in/">  EECS division</a>, <a href = "https://iisc.ac.in/">Indian Institute of Science, Bangalore</a> and I work in Control, learning, and Optimization theory in <a href = "https://cps.iisc.ac.in/faculty/vaibhav/">Prof. Vaibhav Katewa's</a> group.
+<!-- # I'm currently an MTech(research) student in Cyber-physical systems at <a href = "https://eecs.iisc.ac.in/">  EECS division</a>, <a href = "https://iisc.ac.in/">Indian Institute of Science, Bangalore</a> and I work in Control, learning, and Optimization theory in <a href = "https://cps.iisc.ac.in/faculty/vaibhav/">Prof. Vaibhav Katewa's</a> group.
 
 # Prior to this, I graduated from <a href = "https://nith.ac.in/">National Institute of Technology, Hamirpur</a> in May 2023, majoring in Mechanical Engineering. 
 
@@ -21,15 +21,10 @@
 
 # Read an informal version in the 'Z' section. Feel free to explore other tabs too!
 
-# ![](/assets/ch870324.jpg)
+# ![](/assets/ch870324.jpg) -->
 
 
----
-layout: page
-title: Hello!
-permalink: /
-exclude_from_nav: true
----
+
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap-reverse;">
 
