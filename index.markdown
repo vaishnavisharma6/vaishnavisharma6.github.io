@@ -70,7 +70,7 @@ Read an informal version in the 'Z' section. Feel free to explore other tabs too
     Read an informal version in the 'Z' section. Feel free to explore other tabs too!
   </div>
 
-  <div style="flex: 0 0 250px;">
-    <img src="/assets/cover.jpg" alt="Abstract visualisation of a dynamical system" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="flex: 1; text-align: center;">
+    <img src="/assets/cover.jpg" style="max-width: 100%; height: auto; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
