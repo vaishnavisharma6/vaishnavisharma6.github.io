@@ -6,7 +6,7 @@ layout: home
 permalink: /
 exclude_from_nav: true
 ---
-Hello!
+### Hello!
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
