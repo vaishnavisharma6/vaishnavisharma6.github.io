@@ -4,6 +4,7 @@
 
 layout: home
 permalink: /
+title: " "
 exclude_from_nav: true
 ---
 ### Hello!
