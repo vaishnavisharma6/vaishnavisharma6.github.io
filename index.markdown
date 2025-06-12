@@ -6,7 +6,7 @@ layout: home
 permalink: /
 exclude_from_nav: true
 ---
-
+## Hello!
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
     <p>I'm currently an MTech (research) student in Cyber-physical systems at <a href="https://eecs.iisc.ac.in/">EECS division</a>, <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a> and I work in Control, Learning, and Optimization theory in <a href="https://cps.iisc.ac.in/faculty/vaibhav/">Prof. Vaibhav Katewa's</a> group.</p>
