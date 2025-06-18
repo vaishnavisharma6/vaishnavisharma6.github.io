@@ -1,0 +1,16 @@
+---
+layout: post
+title: OFU
+date: 18-06-2025
+---
+
+It takes only a matrix to define the behaviour of a Markov Process. How it evolves. A single entry is enough to determine how state evolution occurs. Does something prevent this dynamics to evolve? 
+
+Should it? 
+
+A control algorithm is as much efficient and meaningful as the origin of control problem itself. Beyond it, an MDP and an MP don't have any difference.
+
+It's interesting how an algorithm needs to be invented just so that it can be aware of its own limitations. 
+
+
+I wish a markov process in the context of us, humans, didn't have that component which makes its own evolution so much spread out.
