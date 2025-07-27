@@ -23,6 +23,6 @@ Hello!
   </div>
 
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/cover.jpg" style="max-width: 100%; height: auto; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/assets/web-vishu.jpeg" style="max-width: 25%; height: auto; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
