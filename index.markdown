@@ -22,7 +22,9 @@ Hello!
     Read an informal version in the 'Z' section. Feel free to explore other tabs too!
   </div>
 
-  <div style="flex: 1; text-align: flex-start;">
-    <img src="/assets/web-vishu.jpeg" style="max-width: 25%; height: auto; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
+<div style="align-self: flex-start; text-align: center;">
+  <img 
+    src="/assets/web-vishu.jpeg" 
+    style="max-width: 150px; height: auto; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 </div>
