@@ -22,4 +22,10 @@ Hello!
     Read an informal version in the 'Z' section. Feel free to explore other tabs too!
   </div>
 
+  <div style="align-self: flex-start; text-align: center;">
+    <img 
+      src="/assets/calvin.jpg" 
+      style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>  
+
 </div>
