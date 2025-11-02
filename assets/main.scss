@@ -16,3 +16,35 @@ a:hover {
   color: #333333;         
   text-decoration: underline;
 }
+
+/* --- Custom header layout --- */
+
+.header-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.site-title {
+  font-size: 2em;
+  text-decoration: none;
+  color: inherit;
+}
+
+.quote-banner {
+  font-style: italic;
+  color: #333;
+  font-size: 0.9em;
+  opacity: 0.8;
+  max-width: 55%;
+  text-align: right;
+}
+
+/* Optional: responsive tweak for small screens */
+@media (max-width: 700px) {
+  .quote-banner {
+    display: none; /* hides quote on very small screens */
+  }
+}
