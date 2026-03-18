@@ -25,3 +25,5 @@ permalink: /books/
 **8.** I remember I read this poem in Science reporter magazine when I was in 9th standard and I suddenly thought of reading it again because it helped me very much then: <a href = "https://nopr.niscpr.res.in/bitstream/123456789/33758/1/SR%2053%282%29%2048-49.pdf">Ghost of Newton</a>.
 
 **9.** Computational Complexity in Systems and control: <a href = "https://www.mit.edu/~jnt/complex.html">Link</a>.
+
+**10.** Good read on current interesting problems in statistics: <a href = "https://raybai.net/seven-major-directions-and-trends-in-modern-statistics">Link</a>.
