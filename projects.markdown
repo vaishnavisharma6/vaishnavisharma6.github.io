@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Working/Submitted Papers
-permalink: /talks/
+title: Research
+permalink: /work/
 ---
 
 # Working Papers
