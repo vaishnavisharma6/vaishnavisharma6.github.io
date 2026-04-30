@@ -1,0 +1,17 @@
+---
+layout: post
+date: 2026-04-30
+title: Bound
+categories: general
+---
+
+It *is* hard to notice how an attempt of bringing a point estimate (implicitly overfitting) can bring an effect of generalizing a human being, so much so that the line between bias and variance starts to blur around. 
+
+I do not really know why or what are we bounded by. I hope the need to search and tighten that bound doesn't make use forget over time that we are bounded by perhaps nothing. That all the bounds were created to let at-least a subset of things make sense. I hope the confidence set reshapes itself such that no man loses a hope...
+
+Hope to draw a line and follow along between bias and variance, introduced by own mind.
+
+
+***Had to do it***
+
+![](/assets/0*7936Gld92vX9GQ82.jpg)
