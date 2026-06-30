@@ -8,6 +8,8 @@ permalink: /work/
 
 1. ***Chance constrained minimum energy control for stochastic linear dynamical systems (Submitted to IEEE Transactions on Automatic Control)***
 
+Vaishnavi Sharma, Vaibhav Katewa
+
 ***Abstract***
 
 Minimum-energy control admits a closed-form solution for deterministic linear systems, but the presence of process noise introduces feasibility questions under stochastic dynamics. In this work, we study this problem in two settings: (a) known dynamics and cost, and (b) unknown dynamics with known cost parameter.
