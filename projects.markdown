@@ -6,7 +6,7 @@ permalink: /work/
 
 # Works
 
-1. ***Chance constrained minimum energy control for stochastic linear dynamical systems *(Submitted to IEEE Transactions on Automatic Control)***
+1. ***Chance constrained minimum energy control for stochastic linear dynamical systems (Submitted to IEEE Transactions on Automatic Control)***
 
 ***Abstract***
 
@@ -16,5 +16,5 @@ In the unknown dynamics setting, we develop data-driven approaches based on stru
 
 ***In progress***
 
-1. ***Online Uncertainty propagation for Stochastic MPC using Conformal Prediction.***\\
+1. ***Online Uncertainty propagation for Stochastic MPC using Conformal Prediction.*** \\
 2. ***Bayesian Approach to learn Minimum Energy control for stochastic dyanmical systems.***
