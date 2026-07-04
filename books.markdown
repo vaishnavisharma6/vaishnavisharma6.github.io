@@ -27,3 +27,5 @@ permalink: /books/
 **9.** Computational Complexity in Systems and control: <a href = "https://www.mit.edu/~jnt/complex.html">Link</a>.
 
 **10.** Good read on current interesting problems in statistics: <a href = "https://raybai.net/seven-major-directions-and-trends-in-modern-statistics">Link</a>.
+
+**11.** Music of asking questions: <a href = "https://www.quantamagazine.org/how-paradoxical-questions-and-simple-wonder-lead-to-great-science-20250528/">Link</a>.
