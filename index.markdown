@@ -16,7 +16,7 @@ Hello!
 
    <p>In my 4th year, I worked on developing deep-learning based numerical schemes for Hyperbolic PDEs in <a href="https://cpraveen.github.io/">Prof. Praveen Chandrashekar's group</a> at <a href="https://www.math.tifrbng.res.in/">TIFR-CAM</a>.</p>
 
-   <p>I'm currently interested and working on problems at the intersection of control theory and online learning. Specifically, I'm interested in how learning theory and control theory can be bridged efficiently using tools from statistical learning, information theory, probability theory, etc., in order to make good decisions for controlling dynamical systems.</p>
+   <p>My current research revolves mainly around stochastic optimization for optimal control policies with a specific focus on efficient uncertainty quantification and establishing finite sample guarantees for the same.</p>
    I also love to learn about how the human brain works and how to formulate good mathematical models for it!  
 
     Read an informal version in the 'Z' section. Feel free to explore other tabs too!
