@@ -17,4 +17,4 @@ Minimum energy control (MEC) admits a closed-form solution for deterministic lin
 ***In progress***
 
 1. ***Online Uncertainty propagation for Stochastic MPC using Conformal Prediction.*** \\
-2. ***Bayesian Approach to learn Minimum Energy control for stochastic dyanmical systems.***
+2. ***Structure aware Bayesian Optimization for High Dimensional SMPC.***
