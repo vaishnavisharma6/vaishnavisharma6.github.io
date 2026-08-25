@@ -19,7 +19,7 @@ Codes for some of the completed projects:
 
 <br/>
 
-Some other small codes that I have written (and think are useful). I try my best to update them frequently. **Project codes are currently private.**
+Some other small codes that I have written (and think are useful). I try my best to update them frequently.
 
 1. Some algorithms to numerically solve Boundary value problems: <a href = "https://github.com/vaishnavisharma6/TIFR-Internship-code">Code</a>.
 
