@@ -3,8 +3,21 @@ layout: page
 title: </>
 permalink: codes
 ---
+Codes for some of the completed projects:
 
-Collection of some small codes that I have written (and think are useful). I try my best to update them frequently. **Project codes are currently private.**
+1. <a href = "https://github.com/vaishnavisharma6/gphy">Data-driven Minimum Energy Control for Stochastic Linear Systems</a>: Simulations for the paper Data-driven Minimum Energy Control for Stochastic Linear Systems, work done with <a href = "https://cps.iisc.ac.in/faculty/vaibhav/"> Prof. Vaibhav Katewa</a> at IISc. (Currently Private)
+
+2. <a href = "https://github.com/priya-sarkar/Multiagent_LLM_">Improving Reasoning in Multi-agent LLMs</a>: A new two player game to understand collaboration among LLM agents with a new test metric to measure agent performance and suggestions for prompt variations that induce or discourage collaboration among the agents, work done with Priya Sarkar at IISc, advised by <a href = "https://ece.iisc.ac.in/~aditya/">Prof. Aditya Gopalan</a>.
+
+3. <a href = "https://github.com/vaishnavisharma6/Robust-RL">Bayesian approach to Robust RL</a>: Code for Bayesian algorithms for robust RL, currently includes URBE, UBE and Vanilla DQN.
+
+4. <a href = "https://github.com/Arpit-Babbar/mlp_blending">MLP-blending</a>: Multi-layer perceptron based blending limiter for hyperbolic PDEs (work done with <a href = "https://babbar.dev/">Arpit Babbar</a> at TIFR-CAM) (currently private).
+
+5. <a href = "https://github.com/vaishnavisharma6/Control-theory">MECI-MLP</a>: MLP based framework for minimum energy control input problem for linear dynamical systems with unknown dynamics (currently private).
+
+<br/>
+
+Some other small codes that I have written (and think are useful). I try my best to update them frequently. **Project codes are currently private.**
 
 1. Some algorithms to numerically solve Boundary value problems: <a href = "https://github.com/vaishnavisharma6/TIFR-Internship-code">Code</a>.
 
@@ -14,13 +27,9 @@ Collection of some small codes that I have written (and think are useful). I try
 
 4. CS-50 codes: <a href = "https://github.com/vaishnavisharma6/CS50-repository">Code</a> (These were developed for CS-50 MOOC during my 1st year of UG. May not be very useful but I found the exercises useful and interesting).
 
-Some other codes written in MATLAB for Machine learning can be found on same account.
+5. Pattern recoginition and neural networks course codes: <a href = "https://github.com/vaishnavisharma6/PRNN">.
 
-<br/>
-Few others:
 
-5. <a href = "https://github.com/Arpit-Babbar/mlp_blending">MLP-blending</a>: Multi-layer perceptron based blending limiter for hyperbolic PDEs (with <a href = "https://babbar.dev/">Arpit Babbar</a>) (currently private).
 
-6. <a href = "https://github.com/vaishnavisharma6/Control-theory">MECI-MLP</a>: MLP based framework for minimum energy control input problem for linear dynamical systems with unknown dynamics (currently private).
 
-7. <a href = "https://github.com/vaishnavisharma6/OPAL_project"> TS-optimal-control </a>: Thompson sampling (with continuous action space) based optimal control of uncertain dynamical systems (private).
+
