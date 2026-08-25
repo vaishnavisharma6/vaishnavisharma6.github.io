@@ -9,11 +9,13 @@ Codes for some of the completed projects:
 
 2. <a href = "https://github.com/priya-sarkar/Multiagent_LLM_">Improving Reasoning in Multi-agent LLMs</a>: A new two player game to understand collaboration among LLM agents with a new test metric to measure agent performance and suggestions for prompt variations that induce or discourage collaboration among the agents, work done with Priya Sarkar at IISc, advised by <a href = "https://ece.iisc.ac.in/~aditya/">Prof. Aditya Gopalan</a>.
 
-3. <a href = "https://github.com/vaishnavisharma6/Robust-RL">Bayesian approach to Robust RL</a>: Code for Bayesian algorithms for robust RL, currently includes URBE, UBE and Vanilla DQN.
+3. <a href = "https://github.com/vaishnavisharma6/openday">Consensus seeking in multi-agent systems</a>: Project to demonstrate consensus dynamics in multi-agent systems using graph-based interactions prepared for Open day 2026 at IISc.
 
-4. <a href = "https://github.com/Arpit-Babbar/mlp_blending">MLP-blending</a>: Multi-layer perceptron based blending limiter for hyperbolic PDEs (work done with <a href = "https://babbar.dev/">Arpit Babbar</a> at TIFR-CAM) (currently private).
+4. <a href = "https://github.com/vaishnavisharma6/Robust-RL">Bayesian approach to Robust RL</a>: Code for Bayesian algorithms for robust RL, currently includes URBE, UBE and Vanilla DQN.
 
-5. <a href = "https://github.com/vaishnavisharma6/Control-theory">MECI-MLP</a>: MLP based framework for minimum energy control input problem for linear dynamical systems with unknown dynamics (currently private).
+5. <a href = "https://github.com/Arpit-Babbar/mlp_blending">MLP-blending</a>: Multi-layer perceptron based blending limiter for hyperbolic PDEs (work done with <a href = "https://babbar.dev/">Arpit Babbar</a> at TIFR-CAM) (currently private).
+
+6. <a href = "https://github.com/vaishnavisharma6/Control-theory">MECI-MLP</a>: MLP based framework for minimum energy control input problem for linear dynamical systems with unknown dynamics (currently private).
 
 <br/>
 
