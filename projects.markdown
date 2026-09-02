@@ -25,6 +25,4 @@ Vaishnavi Sharma, Vaibhav Katewa
 
 In this work, We consider minimum energy control problem with unknown cost function setting and leverage
 the insights gained in known dynamics and cost setting to design a structure-aware Bayesian optimization
-framework (specifically using GP-UCB algorithm). By restricting the search to a lower-dimensional, dynam-
-ically relevant subspace, our approach effectively mitigates the curse of dimensionality and significantly im-
-proves accuracy. 
+framework (specifically using GP-UCB algorithm). By restricting the search to a lower-dimensional, dynamically relevant subspace, our approach effectively mitigates the curse of dimensionality and significantly improves accuracy. 
