@@ -18,3 +18,13 @@ Minimum energy control (MEC) admits a closed-form solution for deterministic lin
 
 1. ***Online Uncertainty propagation for Stochastic MPC using Conformal Prediction.*** \\
 2. ***Structure aware Bayesian Optimization for High Dimensional SMPC.***
+
+Vaishnavi Sharma, Vaibhav Katewa
+
+***Brief Abstract***
+
+In this work, We consider minimum energy control problem with unknown cost function setting and leverage
+the insights gained in known dynamics and cost setting to design a structure-aware Bayesian optimization
+framework (specifically using GP-UCB algorithm). By restricting the search to a lower-dimensional, dynam-
+ically relevant subspace, our approach effectively mitigates the curse of dimensionality and significantly im-
+proves accuracy. 
