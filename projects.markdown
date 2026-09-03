@@ -6,7 +6,7 @@ permalink: /work/
 
 # Works
 
-1. ***Chance constrained minimum energy control for stochastic linear dynamical systems***
+1. ***Data driven minimum energy control for stochastic linear dynamical systems***
 
 Vaishnavi Sharma, Vaibhav Katewa
 
