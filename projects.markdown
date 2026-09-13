@@ -15,7 +15,7 @@ The open-loop minimum-energy control (MEC) problem asks for control inputs that 
 
 
 
-2. ***Data driven Minimum-Energy Control for Stochastic Linear dynamical systems***, Submitted to IEEE Transactions on Automatic Control.
+2. ***Data driven Minimum-Energy Control for Stochastic Linear dynamical systems with Finite-Sample Guarantees***, Submitted to IEEE Transactions on Automatic Control.
 
 Vaishnavi Sharma, Vaibhav Katewa
 
