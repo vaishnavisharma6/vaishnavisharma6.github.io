@@ -5,8 +5,17 @@ permalink: /work/
 ---
 
 # Works
+1. ***Minimum-Energy Control For Stochastic Linear Systems***, Submitted to IEEE Control Systems Letters + American Control Conference, 2027.
 
-1. ***Data driven minimum energy control for stochastic linear dynamical systems***
+Vaishnavi Sharma, Vaibhav Katewa
+
+***Abstract***
+
+The open-loop minimum-energy control (MEC) problem asks for control inputs that minimize the control energy while ensuring the terminal state reaches a desired value. In this paper, we study the open-loop MEC problem for stochastic linear time-invariant systems. We consider a variety of stochastic constraints that enforce the terminal error to be small, and show that Stochastic MEC (SMEC) problem can be formulated as a QCQP. We obtain the optimal solution for SMEC and show that it generalizes the well-known Deterministic MEC problem by introducing novel stochastic variants of controllability and Gramian matrices. Finally, we show that there exists a fundamental lower bound on the optimal control energy which cannot be overcome by increasing the time horizon of the problem. 
+
+
+
+2. ***Data driven Minimum-Energy Control for Stochastic Linear dynamical systems***, Submitted to IEEE Transactions on Automatic Control.
 
 Vaishnavi Sharma, Vaibhav Katewa
 
