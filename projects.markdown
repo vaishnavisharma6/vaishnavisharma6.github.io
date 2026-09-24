@@ -5,7 +5,7 @@ permalink: /work/
 ---
 
 # Works
-I'm interested in various aspects of decision making under uncertainty better. Specifically, I focus on sample efficient learning and better uncertainty quantification. Some areas I like, have extensively explored and am working on can be described using these keywords: Bayesian Optimization, Gaussian Processes, Conformal Inference under distribution shift, Online statistical learning, Data-driven stochastic control, Finite sample guarantees, etc.
+I'm interested in various aspects of decision making under uncertainty. Specifically, I focus on sample efficient learning and uncertainty quantification. Some areas I like, have extensively explored and am working on can be described using these keywords: Bayesian Optimization, Gaussian Processes, Conformal Inference under distribution shift, Online statistical learning, Data-driven stochastic control, Finite sample guarantees, etc.
 Some of my works are mentioned below:
 
 1. ***Minimum-Energy Control For Stochastic Linear Systems***, Submitted to IEEE Control Systems Letters + American Control Conference, 2027.
