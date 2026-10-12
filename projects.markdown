@@ -56,8 +56,6 @@ Some of my works are mentioned below:
 
 <!-- [Preprint](https://arxiv.org/abs/REPLACE_WITH_ID) · [Code](https://github.com/USERNAME/REPOSITORY) -->
 
-We investigate minimum-energy control for stochastic linear systems under probabilistic terminal-state constraints. We derive analytical solutions, introduce stochastic analogues of controllability and Gramian matrices, and characterize fundamental lower bounds on optimal control energy.
-
 <details markdown="1">
 <summary><strong>Read abstract</strong></summary>
 
@@ -78,8 +76,6 @@ The open-loop minimum-energy control (MEC) problem asks for control inputs that 
 </div>
 
 <!-- [Preprint](https://arxiv.org/abs/REPLACE_WITH_ID) · [Code](https://github.com/USERNAME/REPOSITORY) -->
-
-We extend stochastic minimum-energy control to systems with unknown dynamics using structure-aware maximum-likelihood estimation and conformal calibration. Our analysis establishes finite-sample bounds on estimation errors and optimal-cost suboptimality, and investigates the benefits of exploiting structural information.
 
 <details markdown="1">
 <summary><strong>Read abstract</strong></summary>
