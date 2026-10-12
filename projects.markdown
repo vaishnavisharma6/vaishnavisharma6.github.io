@@ -55,7 +55,7 @@ Some of my works are mentioned below:
 
 *Submitted to IEEE Control Systems Letters (L-CSS) + American Control Conference (ACC), 2027.*
 <div class="paper-links">
-  <a href="https://arxiv.org/abs/ARXIV_ID" target="_blank">arXiv</a>
+  <a href="https://arxiv.org/abs/2610.13424" target="_blank">arXiv</a>
   <a href="https://github.com/USERNAME/REPO" target="_blank">Code</a>
 </div>
 
