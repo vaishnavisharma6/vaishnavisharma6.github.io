@@ -1,61 +1,15 @@
-// ---
-// ---
-
-// @import "minima";
-
-// body {
-//   background-color: #f4f4f4; 
-// }
-
-// a {
-//   color: #616466;          
-//   text-decoration: none;
-// }
-
-// a:hover {
-//   color: #bfb6e9;         
-//   text-decoration: underline;
-// }
-
-// /* --- Custom header layout --- */
-
-// .header-flex {
-//   display: flex;
-//   justify-content: space-between;
-//   align-items: center;
-//   padding-top: 10px;
-//   padding-bottom: 10px;
-// }
-
-// .site-title {
-//   font-size: 2em;
-//   text-decoration: none;
-//   color: inherit;
-// }
-
-// .quote-banner {
-//   font-style: italic;
-//   color: #333;
-//   font-size: 0.9em;
-//   opacity: 0.8;
-//   max-width: 55%;
-//   text-align: right;
-// }
-
-// /* Optional: responsive tweak for small screens */
-// @media (max-width: 700px) {
-//   .quote-banner {
-//     display: none; /* hides quote on very small screens */
-//   }
-// }
 
 ---
 ---
 
 @import "minima";
 
+/* ==========================================
+   General website styling
+   ========================================== */
+
 body {
-  background-color: #f4f4f4;
+  background-color: #d4c7c7;
 }
 
 a {
@@ -68,7 +22,10 @@ a:hover {
   text-decoration: underline;
 }
 
-/* --- Custom header layout --- */
+
+/* ==========================================
+   Custom header layout
+   ========================================== */
 
 .header-flex {
   display: flex;
@@ -93,41 +50,116 @@ a:hover {
   text-align: right;
 }
 
-/* Optional: responsive tweak for small screens */
-@media (max-width: 700px) {
-  .quote-banner {
-    display: none;
-  }
+
+/* ==========================================
+   Research page
+   ========================================== */
+
+/* Introductory paragraphs */
+
+.research-page > p {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  color: #444;
+  margin-bottom: 1rem;
 }
 
-/* --- Research paper links --- */
+
+/* Section headings:
+   Manuscripts and Preprints,
+   Ongoing Research
+*/
+
+.research-page h2 {
+  font-size: 1.55rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+
+/* Individual research entries */
+
+.research-page .paper {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eaeaea;
+}
+
+/* Avoid duplicate separators */
+.research-page .paper:last-child {
+  border-bottom: none;
+}
+
+
+/* Publication titles */
+
+.research-page .paper h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #292929;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  letter-spacing: -0.2px;
+}
+
+
+/* Authors and descriptions */
+
+.research-page .paper > p {
+  font-size: 0.93rem;
+  line-height: 1.7;
+  margin-bottom: 0.65rem;
+  color: #444;
+}
+
+
+/* Journal submission / work status */
+
+.research-page .paper-status {
+  font-size: 0.87rem !important;
+  font-style: italic;
+  color: #777 !important;
+  margin-top: 0.35rem;
+  margin-bottom: 0.75rem !important;
+}
+
+
+/* ==========================================
+   Research paper links
+   ========================================== */
 
 .paper-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
-  margin: 12px 0 20px;
+  gap: 8px;
+  margin: 10px 0 12px;
 }
 
 .paper-links a {
   display: inline-block;
-  padding: 6px 14px;
-  border: 1px solid #b8b8b8;
-  border-radius: 6px;
-  background-color: #ffffff;
+  padding: 5px 12px;
+  border: 1px solid #dedede;
+  border-radius: 5px;
+  background-color: transparent;
   color: #616466;
-  font-size: 0.9rem;
+  font-size: 0.83rem;
   font-weight: 500;
+  line-height: 1.4;
   text-decoration: none;
   transition: all 0.2s ease;
 }
 
 .paper-links a:hover {
-  background-color: #bfb6e9;
+  background-color: #f2eef8;
   border-color: #bfb6e9;
-  color: #ffffff;
+  color: #555;
   text-decoration: none;
-  transform: translateY(-2px);
+  transform: none;
 }
 
 .paper-links a:focus-visible {
@@ -135,14 +167,84 @@ a:hover {
   outline-offset: 3px;
 }
 
-/* Mobile-friendly research links */
+
+/* ==========================================
+   Abstract dropdowns
+   ========================================== */
+
+.research-page details {
+  margin-top: 0.7rem;
+  font-size: 0.9rem;
+  line-height: 1.75;
+}
+
+.research-page summary {
+  cursor: pointer;
+  font-size: 0.87rem;
+  font-weight: 500;
+  color: #616466;
+  padding: 2px 0;
+}
+
+.research-page summary:hover {
+  color: #a798c4;
+}
+
+.research-page details[open] {
+  margin-bottom: 0.8rem;
+}
+
+.research-page details p {
+  font-size: 0.9rem;
+  line-height: 1.8;
+  color: #444;
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+}
+
+
+/* ==========================================
+   Responsive layout
+   ========================================== */
+
 @media (max-width: 700px) {
+
+  /* Hide quote on small screens */
+  .quote-banner {
+    display: none;
+  }
+
+  /* Section headings */
+  .research-page h2 {
+    font-size: 1.35rem;
+    margin-top: 2rem;
+    margin-bottom: 1.2rem;
+  }
+
+  /* Publication titles */
+  .research-page .paper h3 {
+    font-size: 1.07rem;
+  }
+
+  /* Research entries */
+  .research-page .paper {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.2rem;
+  }
+
+  /* Paper links */
   .paper-links {
     gap: 8px;
   }
 
   .paper-links a {
-    padding: 6px 11px;
-    font-size: 0.85rem;
+    padding: 5px 10px;
+    font-size: 0.82rem;
+  }
+
+  /* Introductory text */
+  .research-page > p {
+    font-size: 0.92rem;
   }
 }
+
