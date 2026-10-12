@@ -10,8 +10,6 @@ I'm interested in various aspects of decision making under uncertainty. Specific
 
 Some of my works are mentioned below:
 
-## Manuscripts and Preprints
-
 <div class="paper" markdown="1">
 
 ### Minimum-Energy Control for Stochastic Linear Systems
@@ -26,7 +24,7 @@ Some of my works are mentioned below:
 </div>
 
 <details markdown="1">
-<summary>Read abstract</summary>
+<summary>Abstract</summary>
 
 The open-loop minimum-energy control (MEC) problem asks for control inputs that minimize the control energy while ensuring the terminal state reaches a desired value. In this paper, we study the open-loop MEC problem for stochastic linear time-invariant systems. We consider a variety of stochastic constraints that enforce the terminal error to be small, and show that the stochastic MEC (SMEC) problem can be formulated as a QCQP. We obtain the optimal solution for SMEC and show that it generalizes the well-known deterministic MEC problem by introducing novel stochastic variants of controllability and Gramian matrices. Finally, we show that there exists a fundamental lower bound on the optimal control energy which cannot be overcome by increasing the time horizon of the problem.
 
