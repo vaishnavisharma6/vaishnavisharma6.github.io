@@ -34,9 +34,7 @@ Vaishnavi Sharma, Vaibhav Katewa
 
 ***Brief Abstract***
 
-In this work, We consider minimum energy control problem with unknown cost function setting and leverage
-the insights gained in known dynamics and cost setting to design a structure-aware Bayesian optimization
-framework (specifically using GP-UCB algorithm). By restricting the search to a lower-dimensional, dynamically relevant subspace, our approach effectively mitigates the curse of dimensionality and significantly improves accuracy.  -->
+
 
 
 I'm interested in various aspects of decision making under uncertainty. Specifically, I focus on sample efficient learning and uncertainty quantification. Some areas I like, have extensively explored and am working on can be described using these keywords: Bayesian Optimization, Gaussian Processes, Conformal Inference under distribution shift, Online statistical learning, Data-driven stochastic control, Finite sample guarantees, etc.
@@ -106,5 +104,7 @@ Developing data-driven approaches for adaptive uncertainty quantification and ri
 
 *Work in progress.*
 
-We investigate structure-aware Bayesian optimization for control problems with unknown objective functions. By restricting the search to lower-dimensional, dynamically relevant subspaces, we aim to improve sample efficiency and mitigate the curse of dimensionality. Our approach builds on Gaussian process optimization and GP-UCB methods.
+In this work, We consider minimum energy control problem with unknown cost function setting and leverage
+the insights gained in known dynamics and cost setting to design a structure-aware Bayesian optimization
+framework (specifically using GP-UCB algorithm). By restricting the search to a lower-dimensional, dynamically relevant subspace, our approach effectively mitigates the curse of dimensionality and significantly improves accuracy. 
 
