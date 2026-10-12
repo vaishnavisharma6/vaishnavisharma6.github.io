@@ -1,19 +1,70 @@
+// ---
+// ---
+
+// @import "minima";
+
+// body {
+//   background-color: #f4f4f4; 
+// }
+
+// a {
+//   color: #616466;          
+//   text-decoration: none;
+// }
+
+// a:hover {
+//   color: #bfb6e9;         
+//   text-decoration: underline;
+// }
+
+// /* --- Custom header layout --- */
+
+// .header-flex {
+//   display: flex;
+//   justify-content: space-between;
+//   align-items: center;
+//   padding-top: 10px;
+//   padding-bottom: 10px;
+// }
+
+// .site-title {
+//   font-size: 2em;
+//   text-decoration: none;
+//   color: inherit;
+// }
+
+// .quote-banner {
+//   font-style: italic;
+//   color: #333;
+//   font-size: 0.9em;
+//   opacity: 0.8;
+//   max-width: 55%;
+//   text-align: right;
+// }
+
+// /* Optional: responsive tweak for small screens */
+// @media (max-width: 700px) {
+//   .quote-banner {
+//     display: none; /* hides quote on very small screens */
+//   }
+// }
+
 ---
 ---
 
 @import "minima";
 
 body {
-  background-color: #f4f4f4; 
+  background-color: #f4f4f4;
 }
 
 a {
-  color: #616466;          
+  color: #616466;
   text-decoration: none;
 }
 
 a:hover {
-  color: #bfb6e9;         
+  color: #bfb6e9;
   text-decoration: underline;
 }
 
@@ -45,6 +96,53 @@ a:hover {
 /* Optional: responsive tweak for small screens */
 @media (max-width: 700px) {
   .quote-banner {
-    display: none; /* hides quote on very small screens */
+    display: none;
+  }
+}
+
+/* --- Research paper links --- */
+
+.paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 12px 0 20px;
+}
+
+.paper-links a {
+  display: inline-block;
+  padding: 6px 14px;
+  border: 1px solid #b8b8b8;
+  border-radius: 6px;
+  background-color: #ffffff;
+  color: #616466;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.paper-links a:hover {
+  background-color: #bfb6e9;
+  border-color: #bfb6e9;
+  color: #ffffff;
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+.paper-links a:focus-visible {
+  outline: 2px solid #616466;
+  outline-offset: 3px;
+}
+
+/* Mobile-friendly research links */
+@media (max-width: 700px) {
+  .paper-links {
+    gap: 8px;
+  }
+
+  .paper-links a {
+    padding: 6px 11px;
+    font-size: 0.85rem;
   }
 }
