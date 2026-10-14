@@ -46,15 +46,6 @@ The open-loop minimum-energy control (MEC) problem asks for control inputs that 
   <a href="https://github.com/USERNAME/REPO" target="_blank" rel="noopener noreferrer">Code</a>
 </div>
 
-<details markdown="1">
-<summary>Read abstract</summary>
-
-Minimum-energy control (MEC) admits a closed-form solution for deterministic linear systems. However, under stochastic dynamics, the presence of process noise raises feasibility questions. In this work, we formulate the MEC problem for stochastic linear systems under probabilistic terminal-state constraints and hard constraints. We derive explicit feasibility conditions based on the noncentrality parameter of a noncentral chi-square distribution, obtain a closed-form analytical solution by introducing stochastic equivalents of a T-step Gramian and controllability matrix, characterize its dependence on the prediction horizon, and establish convergence and a lower bound on attainable optimal cost with increasing time horizon.
-
-We then extend the formulation to systems with unknown dynamics using structure-aware maximum-likelihood estimation and conformal calibration, and compare these approaches with direct sample-based estimation and probabilistic reformulations. Further, with the help of bias-variance analysis, we show when incorporating structural information proves to be better than a direct sample-based approach. Finally, we establish finite-sample high-probability upper bounds on parameter-estimation error and optimal-cost suboptimality, quantifying their dependence on the number of experiments, number of samples per experiment, system dimension, input-sequence dimension, and noise-to-signal ratio. Using simulations, we validate the theoretical results numerically.
-
-</details>
-
 </div>
 
 
