@@ -42,7 +42,7 @@ The open-loop minimum-energy control (MEC) problem asks for control inputs that 
 <p class="paper-status">Submitted to IEEE Transactions on Automatic Control.</p>
 
 <div class="paper-links">
-  <a href="https://arxiv.org/abs/ARXIV_ID" target="_blank" rel="noopener noreferrer">arXiv</a>
+  <a href="https://arxiv.org/abs/2610.27599" target="_blank" rel="noopener noreferrer">arXiv</a>
   <a href="https://github.com/USERNAME/REPO" target="_blank" rel="noopener noreferrer">Code</a>
 </div>
 
